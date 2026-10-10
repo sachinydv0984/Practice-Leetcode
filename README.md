@@ -29,4 +29,8 @@
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
