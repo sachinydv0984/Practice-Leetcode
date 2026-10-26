@@ -13,6 +13,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -36,9 +37,11 @@
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0242-valid-anagram) |
 | [2409-count-days-spent-together](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/2409-count-days-spent-together) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
