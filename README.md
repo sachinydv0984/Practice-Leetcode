@@ -6,12 +6,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0049-group-anagrams) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0217-contains-duplicate) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0242-valid-anagram) |
 ## Linked List
@@ -36,12 +38,14 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0242-valid-anagram) |
 | [2409-count-days-spent-together](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/2409-count-days-spent-together) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
