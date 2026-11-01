@@ -3,28 +3,20 @@ class Solution {
 
         int n = nums.length;
 
-        int[] ans = new int[n];
+        int[] ans=new int[n];
 
-        // Step 1: Calculate Prefix Product
-        ans[0] = 1;
-
-        for(int i = 1; i < n; i++) {
-
-            ans[i] = ans[i - 1] * nums[i - 1];
-
+        //calculate the prefix sum
+        ans[0]=1;;
+        for(int i=1;i<n;i++){
+            ans[i]=ans[i-1]*nums[i-1];
         }
 
-        // Step 2: Calculate Suffix Product
-        int suffix = 1;
+        int suffix=1;
 
-        for(int i = n - 1; i >= 0; i--) {
-
-            ans[i] = ans[i] * suffix;
-
-            suffix = suffix * nums[i];
-
+        for(int i=n-1;i>=0;i--){
+            ans[i]=ans[i]*suffix;
+            suffix=suffix*nums[i];
         }
-
         return ans;
     }
 }
