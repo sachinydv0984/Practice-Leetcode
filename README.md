@@ -10,6 +10,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
@@ -92,4 +93,8 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0268-missing-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
