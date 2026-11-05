@@ -13,6 +13,7 @@
 | [0217-contains-duplicate](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0268-missing-number) |
+| [0303-range-sum-query-immutable](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
@@ -101,8 +102,13 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Union-Find
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
