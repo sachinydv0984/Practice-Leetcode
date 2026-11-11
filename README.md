@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -20,6 +21,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/sachinydv0984/Practice-Leetcode/tree/master/0169-majority-element) |
