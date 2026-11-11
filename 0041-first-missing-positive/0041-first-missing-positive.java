@@ -2,21 +2,24 @@ import java.util.HashSet;
 
 class Solution {
     public int firstMissingPositive(int[] nums) {
+        int n=nums.length;
+        int i=0;
 
-        HashSet<Integer> set = new HashSet<>();
-
-        // Store all numbers
-        for (int i = 0; i < nums.length; i++) {
-            set.add(nums[i]);
+        while(i<n){
+            int correctIndex=nums[i]-1;
+            if(nums[i]>0 && nums[i]<=n && nums[i] !=nums[correctIndex]){
+                int temp=nums[i];
+                nums[i]=nums[correctIndex];
+                nums[correctIndex]=temp;
+            } else{
+                i++;
+            }
         }
-
-        // Check positive numbers starting from 1
-        int num = 1;
-
-        while (set.contains(num)) {
-            num++;
+        for(int j=0;j<n;j++){
+            if(nums[j]!=j+1){
+                return j+1;
+            }
         }
-
-        return num;
+        return n+1;
     }
 }
